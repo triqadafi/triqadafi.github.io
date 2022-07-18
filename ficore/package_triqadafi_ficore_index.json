@@ -15,7 +15,7 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://triqadafi.github.io/ficore/ficore-fiwatch_core.zip",
-          "archiveFileName": "arduino-ficore-fiwatch_core.zip",
+          "archiveFileName": "ficore-fiwatch_core.zip",
           "checksum": "SHA-256:A4AB1842801D9668A0C6A9CAA14A747FA6EB89B9928A42340D7593098E2D1B01",
           "size": "420686",
           "boards": [
