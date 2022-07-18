@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://triqadafi.github.io/ficore/ficore-fiwatch_core.zip",
           "archiveFileName": "ficore-fiwatch_core.zip",
-          "checksum": "SHA-256:D1161B78518BFA773762AC6464D383A8F5B85FC6D2379D0B5701B9883E6C83D0",
-          "size": "432878",
+          "checksum": "SHA-256:0BA347D99D264F42125B62314DD8DDD876DE6EC4FAB24855A146E3AD15557343",
+          "size": "420439",
           "boards": [
             {
               "name": "fiWATCH 4.0+"
