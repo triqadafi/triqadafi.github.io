@@ -24,6 +24,22 @@
             }
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "fiCore",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://triqadafi.github.io/ficore/ficore-fiwatch_core_1.0.1.zip",
+          "archiveFileName": "ficore-fiwatch_core_1.0.1.zip",
+          "checksum": "SHA-256:52A2CC49F7F136BD949E1E370D56CB894C10F294C928C36F014F6F177EF89073",
+          "size": "401158",
+          "boards": [
+            {
+              "name": "fiWATCH 4.0+"
+            }
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
