@@ -15,7 +15,7 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/triqadafi/TRQDFCore_AVR/releases/download/1.0.0/TRQDFCore_AVR-1.0.0.zip",
-          "archiveFileName": "ficore-fiwatch_core.zip",
+          "archiveFileName": "TRQDFCore_AVR-1.0.0.zip",
           "checksum": "SHA-256:d40b593233cd76ab27309b1fee606491751d9301203b178714f53b391d434bdf",
           "size": "430717",
           "boards": [
