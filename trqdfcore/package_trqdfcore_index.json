@@ -28,10 +28,10 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.3.0/STM32-2.3.0.tar.bz2",
-          "archiveFileName": "STM32-2.3.0.tar.bz2",
-          "checksum": "SHA-256:b18c951e8968945f1aa75192c6e2f11df22ae1281b8ecc06ab4424e91df74c99",
-          "size": "42463756",
+          "url": "https://github.com/triqadafi/TRQDFCore_STM32/releases/download/1.0.0/TRQDFCore_STM32-1.0.0.zip",
+          "archiveFileName": "TRQDFCore_STM32-1.0.0.zip",
+          "checksum": "SHA-256:c58e3df83c92f0cb5d4761161f424e4a31a0b9c54ed4517ce3a10a488686cc7a",
+          "size": "40063260",
           "boards": [
             {"name": "fiWATCH 5.0+"},
             {"name": "TRQDF mark 5"}
