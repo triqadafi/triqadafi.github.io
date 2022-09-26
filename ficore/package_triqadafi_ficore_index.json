@@ -38,17 +38,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "STMicroelectronics",
+              "packager": "TRQDFCore",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "10.3.1-2.3"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "TRQDFCore",
               "name": "STM32Tools",
               "version": "2.1.1"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "TRQDFCore",
               "name": "CMSIS",
               "version": "5.7.0"
             }
