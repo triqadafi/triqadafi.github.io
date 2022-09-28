@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "TRQDFCore_AVR",
+          "name": "TRQDFCore_AVR_Minicore",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
