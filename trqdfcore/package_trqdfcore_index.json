@@ -14,24 +14,24 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TRQDFCore_AVR/releases/download/1.0.0/TRQDFCore_AVR-1.0.0.zip",
-          "archiveFileName": "TRQDFCore_AVR-1.0.0.zip",
-          "checksum": "SHA-256:d40b593233cd76ab27309b1fee606491751d9301203b178714f53b391d434bdf",
-          "size": "430717",
+          "url": "https://github.com/triqadafi/TRQDFCore_AVR_Minicore/archive/refs/tags/v1.0.0-release.zip",
+          "archiveFileName": "TRQDFCore_AVR_Minicore-1.0.0-release.zip",
+          "checksum": "SHA-256:23b1f2aaf95f9858c754cfe224366bb8c48f58a483cfaab23659373d2af7a624",
+          "size": "11266387",
           "boards": [
             {"name": "fiWATCH 4.0+"}
           ],
           "toolsDependencies": []
         },
         {
-          "name": "TRQDFCore_STM32",
+          "name": "TRQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TRQDFCore_STM32/releases/download/1.0.0/TRQDFCore_STM32-1.0.0.zip",
-          "archiveFileName": "TRQDFCore_STM32-1.0.0.zip",
-          "checksum": "SHA-256:c58e3df83c92f0cb5d4761161f424e4a31a0b9c54ed4517ce3a10a488686cc7a",
-          "size": "40063260",
+          "url": "https://github.com/triqadafi/TRQDFCore_STM32_ArduinoCore/archive/refs/tags/v1.0.0-release.zip",
+          "archiveFileName": "TRQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
+          "checksum": "SHA-256:75af8f1c97615026bb2d85d14766740a8751c92170757772563e415a89c80911",
+          "size": "66449590",
           "boards": [
             {"name": "fiWATCH 5.0+"},
             {"name": "TRQDF mark 5"}
