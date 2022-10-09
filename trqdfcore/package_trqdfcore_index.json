@@ -49,6 +49,11 @@
             },
             {
               "packager": "TRQDFCore",
+              "name": "TRQDFTools",
+              "version": "1.0.0"
+            },
+            {
+              "packager": "TRQDFCore",
               "name": "CMSIS",
               "version": "5.7.0"
             }
