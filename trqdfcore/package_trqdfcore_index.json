@@ -201,31 +201,10 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.1.1/STM32Tools-2.1.1-windows.tar.bz2",
-              "archiveFileName": "STM32Tools-2.1.1-windows.tar.bz2",
-              "checksum": "SHA-256:385f1495a70613ca6771c0f824e420f44e27b1433b0b449aaade1dde63b35e68",
-              "size": "2587832"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.1.1/STM32Tools-2.1.1-mac.tar.bz2",
-              "archiveFileName": "STM32Tools-2.1.1-mac.tar.bz2",
-              "checksum": "SHA-256:417bc75ebf19060083e29cf65f7a9f71a6903b7fd158c154057ed723c5e847a1",
-              "size": "486815"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.1.1/STM32Tools-2.1.1-linux.tar.bz2",
-              "archiveFileName": "STM32Tools-2.1.1-linux.tar.bz2",
-              "checksum": "SHA-256:35ecc3914e8a0a45de229111cc45b8cb39a8e0a8c66313562fd51977a7ab3dee",
-              "size": "480360"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.1.1/STM32Tools-2.1.1-linux.tar.bz2",
-              "archiveFileName": "STM32Tools-2.1.1-linux.tar.bz2",
-              "checksum": "SHA-256:35ecc3914e8a0a45de229111cc45b8cb39a8e0a8c66313562fd51977a7ab3dee",
-              "size": "480360"
+              "url": "https://github.com/triqadafi/TRQDFCore_STM32_HID_Bootloader/releases/download/v1.0.0-release/TRQDFTools-1.0.0-windows.zip",
+              "archiveFileName": "TRQDFTools-1.0.0-windows.zip",
+              "checksum": "SHA-256:4efbaf85a432e05275f18c26a7c18880125e892d548b1482d3db36a6e0a4d8c8",
+              "size": "106551"
             }
           ]
         }
