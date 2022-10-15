@@ -28,7 +28,7 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TRQDFCore_STM32_ArduinoCore/archive/refs/tags/v1.0.0-release.zip",
+          "url": "https://github.com/triqadafi/TRQDFCore_STM32_ArduinoCore/releases/download/v1.0.0-release/TRQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
           "archiveFileName": "TRQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
           "checksum": "SHA-256:75af8f1c97615026bb2d85d14766740a8751c92170757772563e415a89c80911",
           "size": "66449590",
@@ -201,10 +201,10 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/triqadafi/TRQDFCore_STM32_HID_Bootloader/releases/download/v1.0.0-release/TRQDFTools-1.0.0-windows.zip",
-              "archiveFileName": "TRQDFTools-1.0.0-windows.zip",
-              "checksum": "SHA-256:4efbaf85a432e05275f18c26a7c18880125e892d548b1482d3db36a6e0a4d8c8",
-              "size": "106551"
+              "url": "https://github.com/triqadafi/TRQDFCore_Tools/releases/download/v1.0.0-release/TRQDFCore_Tools-1.0.0-release-windows.zip",
+              "archiveFileName": "TRQDFCore_Tools-1.0.0-release-windows.zip",
+              "checksum": "SHA-256:0fc437d007f343ad41900a57750135caa0930a3a8c1b4d0c6f2b59da4e2cb224",
+              "size": "108746"
             }
           ]
         }
