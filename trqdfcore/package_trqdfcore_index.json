@@ -30,8 +30,8 @@
           "category": "Contributed",
           "url": "https://github.com/triqadafi/TRQDFCore_STM32_ArduinoCore/releases/download/v1.0.0-release/TRQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
           "archiveFileName": "TRQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
-          "checksum": "SHA-256:75af8f1c97615026bb2d85d14766740a8751c92170757772563e415a89c80911",
-          "size": "66449590",
+          "checksum": "SHA-256:d61593102317341971a78502b023831af23a42fba34821942191370eea94805d",
+          "size": "66449715",
           "boards": [
             {"name": "fiWATCH 5.0+"},
             {"name": "TRQDF mark 5"}
