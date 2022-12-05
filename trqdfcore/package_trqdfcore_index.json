@@ -207,6 +207,20 @@
               "size": "108746"
             }
           ]
+        },
+        {
+          "name": "TRQDFTools",
+          "version": "1.1.0",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/triqadafi/TRQDFCore_Tools/releases/download/v1.1.0-release/TRQDFCore_Tools-1.1.0-release-windows.zip",
+              "archiveFileName": "TRQDFCore_Tools-1.1.0-release-windows.zip",
+              "checksum": "SHA-256:7b8548e75fe91d365b8ea42b2bf9a0e46148cac8e8f9dd628ea0319572b245fd",
+              "size": "458530"
+            }
+          ]
         }
       ]
     }
