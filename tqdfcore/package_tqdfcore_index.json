@@ -28,7 +28,7 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.0.0-release/TQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/archive/refs/tags/v1.0.0-release.zip",
           "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.0.0-release.zip",
           "checksum": "SHA-256:d61593102317341971a78502b023831af23a42fba34821942191370eea94805d",
           "size": "66449715",
