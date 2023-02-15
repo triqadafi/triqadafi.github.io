@@ -26,12 +26,12 @@
         {
           "name": "TQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
-          "version": "1.1.1",
+          "version": "1.1.2",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.1-release/TQDFCore_STM32_ArduinoCore-1.1.1-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.1-release.zip",
-          "checksum": "SHA-256:39cf1d4cd5030be6ae101be68bcc9d840d35f941a966e849bad84919d257644a",
-          "size": "66442043",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.2-release/TQDFCore_STM32_ArduinoCore-1.1.2-release.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.2-release.zip",
+          "checksum": "SHA-256:7c37591f434363bd627e73cb33122a63a565a05f77c99dcd46e1fe0b79dcdcf2",
+          "size": "66441732",
           "boards": [
             {"name": "TQDF mark 5"},
             {"name": "TQDF mark 6"}

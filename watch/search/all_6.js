@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['register_5flocation_0',['REGISTER_location',['../class_t_q_d_f___watch_o_s.html#a22375d6b2c5120dfa20bacc753ae17e6',1,'TQDF_WatchOS']]],
+  ['register_5fread_1',['REGISTER_read',['../class_t_q_d_f___watch_o_s.html#a85c525d7ff22da7ba7674402e1e0022e',1,'TQDF_WatchOS']]],
+  ['register_5fwrite_2',['REGISTER_write',['../class_t_q_d_f___watch_o_s.html#aa801b0854ba8947c51554e2ff71a15c1',1,'TQDF_WatchOS']]],
+  ['reset_3',['reset',['../class_t_q_d_f___watch_o_s.html#a80923413d182610e83ec23e091513cd9',1,'TQDF_WatchOS']]],
+  ['rtc_5ffinetune_4',['RTC_fineTune',['../class_t_q_d_f___watch_o_s.html#a978ac71ca93fbbb893a6755fbef03a69',1,'TQDF_WatchOS']]],
+  ['rtc_5fgetday_5',['RTC_getDay',['../class_t_q_d_f___watch_o_s.html#ad10fb76e1048d128658c7141adeec5a6',1,'TQDF_WatchOS']]],
+  ['rtc_5fgethour_6',['RTC_getHour',['../class_t_q_d_f___watch_o_s.html#ab33ea670c3840f4e16ba0905f4fe48f7',1,'TQDF_WatchOS']]],
+  ['rtc_5fgetminute_7',['RTC_getMinute',['../class_t_q_d_f___watch_o_s.html#a3efb768199e808b9a3e4e0c3de8de71c',1,'TQDF_WatchOS']]],
+  ['rtc_5fgetmonth_8',['RTC_getMonth',['../class_t_q_d_f___watch_o_s.html#a786998230c32f798fde52a647baf699e',1,'TQDF_WatchOS']]],
+  ['rtc_5fgetsecond_9',['RTC_getSecond',['../class_t_q_d_f___watch_o_s.html#a1a45ab0e83a3c64c1e69bd609cb4344e',1,'TQDF_WatchOS']]],
+  ['rtc_5fgetyear_10',['RTC_getYear',['../class_t_q_d_f___watch_o_s.html#a220923562afaab2058ae345983cba500',1,'TQDF_WatchOS']]],
+  ['rtc_5finitialdate_11',['RTC_initialDate',['../class_t_q_d_f___watch_o_s.html#ac529a38ac060cd51ce3b002c24ea0251',1,'TQDF_WatchOS']]],
+  ['rtc_5finitialtime_12',['RTC_initialTime',['../class_t_q_d_f___watch_o_s.html#a6cbc921da06c8fd7d1f70c9acba7031d',1,'TQDF_WatchOS']]],
+  ['rtc_5fsetdate_13',['RTC_setDate',['../class_t_q_d_f___watch_o_s.html#a0576815b66e6e88cf914f3bddadcd45b',1,'TQDF_WatchOS']]],
+  ['rtc_5fsettime_14',['RTC_setTime',['../class_t_q_d_f___watch_o_s.html#ae699891be1af2dd9fcc9a338ac9e58c8',1,'TQDF_WatchOS']]],
+  ['rtc_5fupdate_15',['RTC_update',['../class_t_q_d_f___watch_o_s.html#acfaf9c28225e0d250a6f8955913fabb1',1,'TQDF_WatchOS']]],
+  ['runtime_16',['RUNTIME',['../class_t_q_d_f___watch_o_s.html#a22375d6b2c5120dfa20bacc753ae17e6a65422d7d9a51c398c0b893b80b3a9bc3',1,'TQDF_WatchOS']]]
+];
