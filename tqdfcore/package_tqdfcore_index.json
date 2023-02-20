@@ -19,22 +19,22 @@
           "checksum": "SHA-256:cb83f30679ec77c7cbc81d9806f2d5c7282945cc89ee4b9d338c35c0d68b5ca8",
           "size": "11288971",
           "boards": [
-            {"name": "fiWATCH 4.0+"}
+            {"name": "TQDF Watch mk4"}
           ],
           "toolsDependencies": []
         },
         {
           "name": "TQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
-          "version": "1.1.2",
+          "version": "1.1.4",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.2-release/TQDFCore_STM32_ArduinoCore-1.1.2-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.2-release.zip",
-          "checksum": "SHA-256:7c37591f434363bd627e73cb33122a63a565a05f77c99dcd46e1fe0b79dcdcf2",
-          "size": "66441732",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.4-release/TQDFCore_STM32_ArduinoCore-1.1.4-release.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.4-release.zip",
+          "checksum": "SHA-256:c3f3604ebaa5182ee275e5e344414291f39af5a7a2ce1c1227fe0ee66dccdb86",
+          "size": "66824195",
           "boards": [
-            {"name": "TQDF mark 5"},
-            {"name": "TQDF mark 6"}
+            {"name": "Watch AEONF mk5"},
+            {"name": "Watch AEONF mk6"}
           ],
           "toolsDependencies": [
             {
