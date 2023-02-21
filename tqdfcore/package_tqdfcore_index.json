@@ -30,8 +30,8 @@
           "category": "Contributed",
           "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.4-release/TQDFCore_STM32_ArduinoCore-1.1.4-release.zip",
           "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.4-release.zip",
-          "checksum": "SHA-256:a685515db10866823753b03376418238c01f332476896c276c524809507bf924",
-          "size": "66472247",
+          "checksum": "SHA-256:2ac8248699cd83f33f8c51ad89695078a7e0b6e4c18c3529387d1f0305220fe4",
+          "size": "66472263",
           "boards": [
             {"name": "Watch AEONF mk5"},
             {"name": "Watch AEONF mk6"}
