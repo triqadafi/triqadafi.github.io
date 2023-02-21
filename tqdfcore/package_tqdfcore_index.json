@@ -49,18 +49,32 @@
             },
             {
               "packager": "TQDFCore",
-              "name": "TQDFTools",
-              "version": "1.1.0"
+              "name": "CMSIS",
+              "version": "5.7.0"
             },
             {
               "packager": "TQDFCore",
-              "name": "CMSIS",
-              "version": "5.7.0"
+              "name": "TQDFTools",
+              "version": "1.1.2"
             }
           ]
         }
       ],
       "tools": [
+        {
+          "name": "TQDFTools",
+          "version": "1.1.2",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.2-release/TQDFCore_Tools-1.1.2-release-windows.zip",
+              "archiveFileName": "TQDFCore_Tools-1.1.2-release-windows.zip",
+              "checksum": "SHA-256:fc806536ef613d85d2623b7a7cff14dd580d000447c3a3bfe45c6dc126a6309b",
+              "size": "465343"
+            }
+          ]
+        },
         {
           "name": "xpack-arm-none-eabi-gcc",
           "version": "10.3.1-2.3",
@@ -191,20 +205,6 @@
               "archiveFileName": "STM32Tools-2.1.1-linux.tar.bz2",
               "checksum": "SHA-256:35ecc3914e8a0a45de229111cc45b8cb39a8e0a8c66313562fd51977a7ab3dee",
               "size": "480360"
-            }
-          ]
-        },
-        {
-          "name": "TQDFTools",
-          "version": "1.1.0",
-          "systems":
-          [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.1-release/TQDFCore_Tools-1.1.1-release-windows.zip",
-              "archiveFileName": "TQDFCore_Tools-1.1.1-release-windows.zip",
-              "checksum": "SHA-256:68295952dd74fd0183af27d1c2b584b885a00ab4d5216b72e92e8cfbab07510f",
-              "size": "458963"
             }
           ]
         }
