@@ -26,12 +26,12 @@
         {
           "name": "TQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
-          "version": "1.1.5",
+          "version": "1.1.6",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.5-release/TQDFCore_STM32_ArduinoCore-1.1.5-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.5-release.zip",
-          "checksum": "SHA-256:05d936281b7b23bdedd06fe31c895a6092faf6348f63c91989ead7203e88be57",
-          "size": "9818865",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.6-release/TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
+          "checksum": "SHA-256:8d304ada24285a073be727b42d9804f433fce5f3b29a43c82d58f11305c39e28",
+          "size": "9818884",
           "boards": [
             {"name": "Watch AEONF mk5"},
             {"name": "Watch AEONF mk6"}
@@ -55,7 +55,7 @@
             {
               "packager": "TQDFCore",
               "name": "TQDFTools",
-              "version": "1.1.3"
+              "version": "1.1.4"
             }
           ]
         }
@@ -63,15 +63,15 @@
       "tools": [
         {
           "name": "TQDFTools",
-          "version": "1.1.3",
+          "version": "1.1.4",
           "systems":
           [
             {
-              "host": "i686-mingw32",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.3-release/TQDFCore_Tools-1.1.3-release-windows.zip",
-              "archiveFileName": "TQDFCore_Tools-1.1.3-release-windows.zip",
-              "checksum": "SHA-256:54a7b5eee7a478263b9ae511a7359543fcec13221d8aae710033ec238df2f004",
-              "size": "466247"
+              "host": "all",
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.4-release/TQDFCore_Tools-1.1.4-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.1.4-release.zip",
+              "checksum": "SHA-256:7ca3a35a11dd1c470d3dbdbce165ed10c3d40153bd643e303ebefc55763e7f1b",
+              "size": "522897"
             }
           ]
         },
