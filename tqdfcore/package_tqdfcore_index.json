@@ -30,8 +30,8 @@
           "category": "Contributed",
           "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.6-release/TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
           "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
-          "checksum": "SHA-256:8d304ada24285a073be727b42d9804f433fce5f3b29a43c82d58f11305c39e28",
-          "size": "9818884",
+          "checksum": "SHA-256:16047fe99cd83d0b9e35f98f54a8fe79ff7a861ad4a8de43ea78d4d3ea45eee8",
+          "size": "9818889",
           "boards": [
             {"name": "Watch AEONF mk5"},
             {"name": "Watch AEONF mk6"}
@@ -70,8 +70,8 @@
               "host": "all",
               "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
               "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
-              "checksum": "SHA-256:4ad8029c6311f92a05ae3d7af2dc0aa63c70b9905413065facf587809ab9b3c9",
-              "size": "523684"
+              "checksum": "SHA-256:e060949f744c27dc59462f2289d73839b4ac9d5595183caface7e1d36996d667",
+              "size": "524108"
             }
           ]
         },
