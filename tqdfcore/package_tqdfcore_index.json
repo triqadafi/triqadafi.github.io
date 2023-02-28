@@ -55,7 +55,7 @@
             {
               "packager": "TQDFCore",
               "name": "TQDFTools",
-              "version": "1.1.4"
+              "version": "1.1.5"
             }
           ]
         }
@@ -63,15 +63,15 @@
       "tools": [
         {
           "name": "TQDFTools",
-          "version": "1.1.4",
+          "version": "1.1.5",
           "systems":
           [
             {
               "host": "all",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.4-release/TQDFCore_Tools-1.1.4-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.1.4-release.zip",
-              "checksum": "SHA-256:7ca3a35a11dd1c470d3dbdbce165ed10c3d40153bd643e303ebefc55763e7f1b",
-              "size": "522897"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
+              "checksum": "SHA-256:a4ab1f772d4513445b247aedb166abf447e3c511bdce15cf4b2c5005e7cb1b9c",
+              "size": "523684"
             }
           ]
         },
