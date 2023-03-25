@@ -67,12 +67,19 @@
           "systems":
           [
             {
-              "host": "all",
+              "host": "i686-mingw32",
               "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
               "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
               "checksum": "SHA-256:e060949f744c27dc59462f2289d73839b4ac9d5595183caface7e1d36996d667",
               "size": "524108"
-            }
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
+              "checksum": "SHA-256:e060949f744c27dc59462f2289d73839b4ac9d5595183caface7e1d36996d667",
+              "size": "524108"
+            },
           ]
         },
         {
