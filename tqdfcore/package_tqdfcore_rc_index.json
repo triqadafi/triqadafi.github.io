@@ -12,12 +12,12 @@
         {
           "name": "TQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
-          "version": "1.2.0",
+          "version": "1.2.1",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.2.0-release/TQDFCore_STM32_ArduinoCore-1.2.0-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.2.0-release.zip",
-          "checksum": "SHA-256:ef46a11046645dda664f173137ab45efec058b8aba793187cc2a6434303ee8d0",
-          "size": "9826024",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.2.1-release/TQDFCore_STM32_ArduinoCore-1.2.1-release.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.2.1-release.zip",
+          "checksum": "SHA-256:4df221eb950fc678cf494d23fd88cb8e9e3be594acc7cb5d58f5a22d7ebb64a5",
+          "size": "9826180",
           "boards": [
             {"name": "Watch AEONF mk6"}
           ],
