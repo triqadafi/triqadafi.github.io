@@ -12,12 +12,12 @@
         {
           "name": "TQDFCore_STM32_ArduinoCore",
           "architecture": "stm32",
-          "version": "1.2.2",
+          "version": "1.2.3",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.2.2-release/TQDFCore_STM32_ArduinoCore-1.2.2-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.2.2-release.zip",
-          "checksum": "SHA-256:a30e2ac5a7c6e4ad58826737fc934d961ae50365b48708da24c6475ca21ab251",
-          "size": "9826189",
+          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.2.3-release/TQDFCore_STM32_ArduinoCore-1.2.3-release.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.2.3-release.zip",
+          "checksum": "SHA-256:84a2eee34762ab01ef76611c1fdc7187747177caf93cd126b8c481259cfd28a3",
+          "size": "9826329",
           "boards": [
             {"name": "Watch AEONF mk6"}
           ],
@@ -40,7 +40,7 @@
             {
               "packager": "TQDFCore",
               "name": "TQDFTools",
-              "version": "1.2.1"
+              "version": "1.2.2"
             }
           ]
         },
@@ -84,29 +84,29 @@
       "tools": [
         {
           "name": "TQDFTools",
-          "version": "1.2.1",
+          "version": "1.2.2",
           "systems":
           [
             {
               "host": "all",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.1-release/TQDFCore_Tools-1.2.1-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.2.1-release.zip",
-              "checksum": "SHA-256:059e6577d30c839c0587ab032eb4fe89e00e9648f26a51b309177416e9aeb5ef",
-              "size": "525167"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.2-release/TQDFCore_Tools-1.2.2-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.2-release.zip",
+              "checksum": "SHA-256:885ae80d933627748f2eeed327dcd99872501cfb8d225425a358d8dd8604b635",
+              "size": "833051"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.1-release/TQDFCore_Tools-1.2.1-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.2.1-release.zip",
-              "checksum": "SHA-256:059e6577d30c839c0587ab032eb4fe89e00e9648f26a51b309177416e9aeb5ef",
-              "size": "525167"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.2-release/TQDFCore_Tools-1.2.2-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.2-release.zip",
+              "checksum": "SHA-256:885ae80d933627748f2eeed327dcd99872501cfb8d225425a358d8dd8604b635",
+              "size": "833051"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.1-release/TQDFCore_Tools-1.2.1-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.2.1-release.zip",
-              "checksum": "SHA-256:059e6577d30c839c0587ab032eb4fe89e00e9648f26a51b309177416e9aeb5ef",
-              "size": "525167"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.2-release/TQDFCore_Tools-1.2.2-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.2-release.zip",
+              "checksum": "SHA-256:885ae80d933627748f2eeed327dcd99872501cfb8d225425a358d8dd8604b635",
+              "size": "833051"
             }
           ]
         },
