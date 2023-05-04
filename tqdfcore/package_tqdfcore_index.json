@@ -14,8 +14,8 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_WatchOS/releases/download/v2.0.0/TQDFCore_STM32_ArduinoCore-2.0.0.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-2.0.0.zip",
+          "url": "https://github.com/triqadafi/TQDFCore_WatchOS/releases/download/v2.0.0/TQDFCore_WatchOS-2.0.0.zip",
+          "archiveFileName": "TQDFCore_WatchOS-2.0.0.zip",
           "checksum": "SHA-256:1b95e01591de87ecac159fe6152d2e7ef41cd216698060623cab3e8e2d38a14b",
           "size": "5380894",
           "boards": [
