@@ -10,30 +10,15 @@
       },
       "platforms": [
         {
-          "name": "TQDFCore_AVR_Minicore",
-          "architecture": "avr",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_AVR_Minicore/releases/download/v1.0.0-release/TQDFCore_AVR_Minicore-1.0.0-release.zip",
-          "archiveFileName": "TQDFCore_AVR_Minicore-1.0.0-release.zip",
-          "checksum": "SHA-256:cb83f30679ec77c7cbc81d9806f2d5c7282945cc89ee4b9d338c35c0d68b5ca8",
-          "size": "11288971",
-          "boards": [
-            {"name": "TQDF Watch mk4"}
-          ],
-          "toolsDependencies": []
-        },
-        {
-          "name": "TQDFCore_STM32_ArduinoCore",
+          "name": "TQDFCore_WatchOS",
           "architecture": "stm32",
-          "version": "1.1.6",
+          "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/triqadafi/TQDFCore_STM32_ArduinoCore/releases/download/v1.1.6-release/TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
-          "archiveFileName": "TQDFCore_STM32_ArduinoCore-1.1.6-release.zip",
-          "checksum": "SHA-256:16047fe99cd83d0b9e35f98f54a8fe79ff7a861ad4a8de43ea78d4d3ea45eee8",
-          "size": "9818889",
+          "url": "https://github.com/triqadafi/TQDFCore_WatchOS/releases/download/v2.0.0/TQDFCore_STM32_ArduinoCore-2.0.0.zip",
+          "archiveFileName": "TQDFCore_STM32_ArduinoCore-2.0.0.zip",
+          "checksum": "SHA-256:1b95e01591de87ecac159fe6152d2e7ef41cd216698060623cab3e8e2d38a14b",
+          "size": "5380894",
           "boards": [
-            {"name": "Watch AEONF mk5"},
             {"name": "Watch AEONF mk6"}
           ],
           "toolsDependencies": [
@@ -55,7 +40,7 @@
             {
               "packager": "TQDFCore",
               "name": "TQDFTools",
-              "version": "1.1.5"
+              "version": "1.2.3"
             }
           ]
         }
@@ -63,22 +48,29 @@
       "tools": [
         {
           "name": "TQDFTools",
-          "version": "1.1.5",
+          "version": "1.2.3",
           "systems":
           [
             {
+              "host": "all",
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.3-release/TQDFCore_Tools-1.2.3-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.3-release.zip",
+              "checksum": "SHA-256:d6791c845915593fa8986b910ed071278be278039e8c6593f674c96c196e18cd",
+              "size": "948752"
+            },
+            {
               "host": "i686-mingw32",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
-              "checksum": "SHA-256:e060949f744c27dc59462f2289d73839b4ac9d5595183caface7e1d36996d667",
-              "size": "524108"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.3-release/TQDFCore_Tools-1.2.3-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.3-release.zip",
+              "checksum": "SHA-256:d6791c845915593fa8986b910ed071278be278039e8c6593f674c96c196e18cd",
+              "size": "948752"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.1.5-release/TQDFCore_Tools-1.1.5-release.zip",
-              "archiveFileName": "TQDFCore_Tools-1.1.5-release.zip",
-              "checksum": "SHA-256:e060949f744c27dc59462f2289d73839b4ac9d5595183caface7e1d36996d667",
-              "size": "524108"
+              "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.3-release/TQDFCore_Tools-1.2.3-release.zip",
+              "archiveFileName": "TQDFCore_Tools-1.2.3-release.zip",
+              "checksum": "SHA-256:d6791c845915593fa8986b910ed071278be278039e8c6593f674c96c196e18cd",
+              "size": "948752"
             }
           ]
         },
