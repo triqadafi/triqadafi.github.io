@@ -91,14 +91,14 @@
               "host": "all",
               "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.3-release/TQDFCore_Tools-1.2.3-release.zip",
               "archiveFileName": "TQDFCore_Tools-1.2.3-release.zip",
-              "checksum": "SHA-256:885ae80d933627748f2eeed327dcd99872501cfb8d225425a358d8dd8604b635",
+              "checksum": "SHA-256:d6791c845915593fa8986b910ed071278be278039e8c6593f674c96c196e18cd",
               "size": "948752"
             },
             {
               "host": "i686-mingw32",
               "url": "https://github.com/triqadafi/TQDFCore_Tools/releases/download/v1.2.3-release/TQDFCore_Tools-1.2.3-release.zip",
               "archiveFileName": "TQDFCore_Tools-1.2.3-release.zip",
-              "checksum": "SHA-256:885ae80d933627748f2eeed327dcd99872501cfb8d225425a358d8dd8604b635",
+              "checksum": "SHA-256:d6791c845915593fa8986b910ed071278be278039e8c6593f674c96c196e18cd",
               "size": "948752"
             },
             {
