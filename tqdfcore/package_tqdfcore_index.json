@@ -3,12 +3,47 @@
     {
       "name": "TQDFCore",
       "maintainer": "Triqadafi",
-      "websiteURL": "https://github.com/triqadafi/fiCore",
+      "websiteURL": "https://watch.triqada.fi/",
       "email": "",
       "help": {
-        "online": "https://triqada.fi/"
+        "online": "https://watch.triqada.fi/"
       },
       "platforms": [
+        {
+          "name": "TQDFCore_WatchOS",
+          "architecture": "stm32",
+          "version": "2.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/triqadafi/TQDFCore_WatchOS/releases/download/v2.1.0/TQDFCore_WatchOS-2.1.0.zip",
+          "archiveFileName": "TQDFCore_WatchOS-2.1.0.zip",
+          "checksum": "SHA-256:04c29a23624a988363642541fb9518c59f2f26829fa4bc16b528905b50eddbb8",
+          "size": "5321978",
+          "boards": [
+            {"name": "Watch AEONF mk6"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "TQDFCore",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "10.3.1-2.3"
+            },
+            {
+              "packager": "TQDFCore",
+              "name": "STM32Tools",
+              "version": "2.1.1"
+            },
+            {
+              "packager": "TQDFCore",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            },
+            {
+              "packager": "TQDFCore",
+              "name": "TQDFTools",
+              "version": "1.2.3"
+            }
+          ]
+        },
         {
           "name": "TQDFCore_WatchOS",
           "architecture": "stm32",
